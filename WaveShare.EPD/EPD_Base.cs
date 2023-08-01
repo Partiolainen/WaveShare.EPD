@@ -1,12 +1,7 @@
 ﻿using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
-using System;
-using System.Collections.Generic;
 using System.Device.Gpio;
 using System.Device.Spi;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WaveShare.EPD
 {
